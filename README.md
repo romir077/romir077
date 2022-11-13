@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## GitHub Statistics
+
+<p align="center">
+ <a href="https://github-readme-stats.vercel.app/api?username=sudo-jarvis&show_icons=true&count_private=true&theme=onedark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-jarvis&show_icons=true&count_private=true&theme=onedark" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-jarvis&theme=onedark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-jarvis&theme=onedark&exclude_repo=Competitive-Programming&hide=html,css" />
+</a>
+</p>
